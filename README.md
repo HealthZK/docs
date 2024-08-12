@@ -13,4 +13,4 @@ Every time you go into another medical office for an appointment, same thing.
 
 Now why?
 
-Some time ago.
+Some time ago. What the heck.
