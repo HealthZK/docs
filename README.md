@@ -12,3 +12,5 @@ How many times have we been to the doctor's office and, upon arrival, are bestow
 Every time you go into another medical office for an appointment, same thing.
 
 Now why?
+
+Some time ago.
