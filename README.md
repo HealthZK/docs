@@ -9,3 +9,5 @@ Zero-Knowledge Proofs for the Healthcare & Biopharmaceutical Industry
 \
 Do you have a disease?  What?  A long-term condition?  Short term?  Can it be cured?
 
+its so messed up dude
+
