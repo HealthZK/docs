@@ -13,3 +13,5 @@ HealthZK Protocol for decentralized FHIR and HL7
 
 * Performed analysis of ICD-10 crosswalks and mapping needs, and provided leadership on developing an ICD-10 implementation strategy.
 * Coordinated all ICD-10 readiness activities required to complete project goals.
+
+One puny change per day.
